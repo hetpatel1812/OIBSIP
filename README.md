@@ -60,5 +60,4 @@ Used clustering (K-Means) to segment customers based on annual income and spendi
 
 ---
 
-## 📁 Repository Structure
 
