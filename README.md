@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91726340/223084103-c04326c3-f9cc-437d-8a85-abb0865400ec.png" width="70%" />
 </p>
-This repository contains the projects completed during my internship at **Oasis Infobyte**. The internship consisted of **5 hands-on tasks**, each focusing on solving real-world problems using Machine Learning and Python. These tasks helped me strengthen my practical knowledge and skills in data science, ML algorithms, and project implementation.
+This repository contains the projects completed during my internship at **Oasis Infobyte** . The internship consisted of  **5 hands-on tasks** , each focusing on solving real-world problems using Machine Learning and Python. These tasks helped me strengthen my practical knowledge and skills in data science, ML algorithms, and project implementation.
 
 ---
 
