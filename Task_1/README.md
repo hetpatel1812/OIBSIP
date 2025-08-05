@@ -39,16 +39,6 @@ The dataset is publicly available and can also be downloaded from [here](https:/
 - Matplotlib
 - Seaborn
 
-## 📷 UI Reference
-
-This project was also accompanied by a UI layout as seen below:
-
-![Task UI](./Screenshot%202025-07-31%20162959.png)
-
-## 📚 Acknowledgement
-
-Thanks to **Oasis Infobyte** for providing this internship opportunity and the dataset source from UCI Machine Learning Repository.
-
 ## 🔗 Connect
 
 If you liked this project or have feedback, feel free to reach out or raise issues.
