@@ -14,7 +14,7 @@ This repository contains the projects completed during my internship at **Oasis 
 
 A supervised machine learning project to classify iris flowers into three species (*Setosa, Versicolor, Virginica*) based on petal and sepal measurements. Multiple ML models were used and evaluated for accuracy.
 
-➡️ [View Notebook](https://github.com/hetpatel1812/OIBSIP/blob/main/Task_1/iris_flower_classification.ipynb)
+➡️ [View Task_1](https://github.com/hetpatel1812/OIBSIP/blob/main/Task_1/iris_flower_classification.ipynb)
 
 ---
 
