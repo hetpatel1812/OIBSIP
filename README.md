@@ -30,8 +30,3 @@ A supervised machine learning project to classify iris flowers into three specie
 ---
 
 
-
-<p align="center">
-  <img src="https://www.linkedin.com/embed/feed/update/urn:li:share:7356631905032646657" width="70%" />
-</p>
----
